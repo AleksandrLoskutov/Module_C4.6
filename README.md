@@ -3,10 +3,10 @@ C4.6 Практикум
 
 **1. Скриншот с логами кибаны**
 ___
-![kibana_logs](/images/kibana.png)
+![kibana_logs](/images/kibana.PNG)
 **conf. Конфиги используемых сервисов лежат в каталоге** [***C4.6.1***](/C4.6.1)
 
 **2. Скриншот с логами nginx**
 ___
-![nginx_logs](/images/nginx.png)
+![nginx_logs](/images/nginx.PNG)
 **conf. Конфиги используемых сервисов лежат в каталоге** [***C4.6.2***](/C4.6.2)
